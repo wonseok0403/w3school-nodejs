@@ -1,4 +1,5 @@
-// npm install mongodb
+// After create Database
+// 2.
 var MongoClient = require('mongodb').MongoClient;
 var url = "mongodb://localhost:27017/";
 
